@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/tron.tmTheme",
+	"draw_centered": false,
+	"font_face": "Panic Sans",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Highlight Whitespaces",
+		"WordHighlight",
+		"Highlighter"
+	],
+	"spell_check": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"theme": "Soda Dark.sublime-theme",
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true
+}
