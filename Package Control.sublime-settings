@@ -1,12 +1,16 @@
 {
 	"installed_packages":
 	[
+		"AutoFileName",
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Color Highlighter",
 		"Color Scheme - Nice Blue Soda",
 		"ColorSchemeSelector",
 		"Dayle Rees Color Schemes",
+		"Emmet",
+		"FileSystem Autocompletion",
+		"Handlebars",
 		"Highlight Whitespaces",
 		"Highlighter",
 		"HTML5",
